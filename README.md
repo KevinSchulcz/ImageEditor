@@ -5,7 +5,7 @@ the pixels of the image. It is made with C and the GTK4 libraries.
 
 One is able to use tools such as a colour picker and undo/redo buttons. 
 Finally, using the save button, the user is able to save their changed image 
-to a newly created file. See [User Guide](##user-guide) for more info.
+to a newly created file. See [User Guide](#user-guide) for more info.
 
 ## Demo
 
